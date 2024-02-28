@@ -1,4 +1,4 @@
-telegram_bot
+Telegram_bot
 
 This is a telegram where user can register their details and get a weather update from the bot. Additional feature Admin Panel for handling Users
 
